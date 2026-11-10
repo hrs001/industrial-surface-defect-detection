@@ -66,7 +66,7 @@ Performed detailed analysis on:
 
 ---
 
-## 📈 Results
+## Results
 
 The model achieves stable convergence on validation set with balanced precision and recall performance.
 
@@ -77,7 +77,7 @@ Key observations:
 
 ---
 
-## 🔍 Inference Demo
+## Inference Demo
 
 Example inference output:
 
@@ -88,7 +88,7 @@ YOLOv8 successfully detects multiple defect types in a single image.
 
 ---
 
-## 📷 Visualizations
+## Visualizations
 
 - Training loss curves
 - Precision-Recall curves
@@ -97,7 +97,7 @@ YOLOv8 successfully detects multiple defect types in a single image.
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 - Data quality validation is critical before training
 - Small object defects require higher resolution or stronger augmentation
@@ -106,7 +106,7 @@ YOLOv8 successfully detects multiple defect types in a single image.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - Python
 - PyTorch
@@ -117,7 +117,7 @@ YOLOv8 successfully detects multiple defect types in a single image.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 surface-defect-yolo/
 │
 ├── dataset/
@@ -130,7 +130,7 @@ surface-defect-yolo/
 
 ---
 
-## 🔥 Future Improvements
+## Future Improvements
 
 - Compare YOLOv8n vs YOLOv8s performance
 - Apply data augmentation ablation study
@@ -139,7 +139,7 @@ surface-defect-yolo/
 
 ---
 
-## 📌 Author Notes
+## Author Notes
 
 This project demonstrates a complete **computer vision pipeline** for industrial defect detection, covering data engineering, model training, evaluation, and error analysis.
 
