@@ -1,6 +1,6 @@
-# 🔍 Surface Defect Detection using YOLOv8
+# Surface Defect Detection using YOLOv8
 
-## 📌 Project Overview
+## Project Overview
 
 This project implements an end-to-end **industrial surface defect detection system** based on **YOLOv8**.  
 It focuses on detecting and classifying surface defects in the **NEU-DET dataset**, which contains 6 types of steel surface defects.
